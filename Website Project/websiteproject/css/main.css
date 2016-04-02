@@ -68,7 +68,7 @@ header{
 	float: left;
 	width: 200px;
 	height: 60px;
-	background: (<img src="img/logo.png" alt="A fake logo of company">) no-repeat center;
+	background: url("img/logo.png" alt="A fake logo of company") no-repeat center;
 }
 
 nav{
@@ -124,6 +124,7 @@ article{
 	height: auto;
 	padding: 4%;
 }
+
 
 aside{
 	float: right;
