@@ -17,17 +17,20 @@ h1{
 	font-size: 180;
 	line-height: 120%;
 	padding: 5% 0;
+	color: #405580;
 }
 
 h2{
 	text-decoration: underline;
 	line-height: 280%;
 	padding-left: 2%;
+	color: #405580;
 }
 
 h3{
 	line-height: 110px;
 	padding: 5% 0;
+	color: #405580;
 }
 
 p{
